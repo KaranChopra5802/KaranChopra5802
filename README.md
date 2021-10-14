@@ -1,14 +1,13 @@
 ### Hi there 👋
 
+My name is [Karan Chopra](https://www.linkedin.com/in/karan-chopra-5802/) and I am an SE student at Thadomal Shahani Engineering College, Bandra.
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=KaranChopra5802&theme=lightcontrast&show_icons=true&count_private=true)
+
+- 🌱 I’m currently learning Web development.
+
 <!--
-**KaranChopra5802/KaranChopra5802** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=yKaranChopra5802&theme=highcontrast&show_icons=true&count_private=true)
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
