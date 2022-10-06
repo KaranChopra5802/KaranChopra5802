@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is [Karan Chopra](https://www.linkedin.com/in/karan-chopra-5802/) and I am an SE student at Thadomal Shahani Engineering College, Bandra.
+My name is [Karan Chopra](https://www.linkedin.com/in/karan-chopra-5802/) and I am an TE student at Thadomal Shahani Engineering College, Bandra.
 <br><hr>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=KaranChopra5802&theme=gruvbox_light&show_icons=true&count_private=true)<hr>
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=KaranChopra5802&theme=gruvbox_light&layout=compact)<hr>
