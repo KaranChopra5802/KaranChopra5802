@@ -4,7 +4,7 @@ My name is [Karan Chopra](https://www.linkedin.com/in/karan-chopra-5802/) and I 
 <br><hr>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=KaranChopra5802&theme=gruvbox_light&show_icons=true&count_private=true)<hr>
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=KaranChopra5802&theme=gruvbox_light&layout=compact)<hr>
-- 🌱 I’m currently learning **Web development**.
+- 🌱 I’m currently learning **Machine Learning and Artificial Intelligence**.
 - ⚡ **Fun fact:** I do photography as a hobby, you can see some of my clicks [here](https://www.instagram.com/_.just_a_hobby_/).
 <!--
 - 🔭 I’m currently working on ...
